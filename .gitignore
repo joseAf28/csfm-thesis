@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+env/
+
+# Data and Embeddings
+data/
+embeddings/
+*.h5
+
+# Model Checkpoints and Logs
+checkpoints*/
+*.pth
+*.pt
+samples*/
+stdout_*.txt

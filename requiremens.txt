@@ -1,0 +1,20 @@
+# Configuration & CLI
+absl-py
+ml-collections
+
+# Core Machine Learning & Math
+torch
+torchvision
+tensorflow
+tensorflow-datasets
+jax
+numpy
+pandas
+
+# Image Processing & Plotting
+Pillow
+matplotlib
+
+# Utilities
+tensorboard
+ninja
