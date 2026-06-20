@@ -19,8 +19,8 @@ For researchers and reviewers looking for our specific contributions, please ref
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
-cd YourRepoName
+git clone [https://github.com/joseAf28/csfm-thesis/tree/main](https://github.com/joseAf28/csfm-thesis/tree/main)
+cd csfm-thesis
 pip install -r requirements.txt
 ```
 
